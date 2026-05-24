@@ -4,6 +4,13 @@
 Análisis del desempeño de plantas de tratamiento de aguas residuales utilizando ciencia de datos con python.
 Objetivo principal es evidenciar los posibles problemas que puedan presentar las plantas respecto a su eficacia.
 
+las funciones realizadas incluye:
+Limpieza de datos.
+Calculo de variables.
+Elaboración de dashboard.
+Utilización de archivos de funciones separados.
+exportar resultados.
+
 ## Contenido
 - `notebooks/`: análisis principal
 - `data/`: dataset utilizado
