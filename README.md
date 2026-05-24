@@ -1,2 +1,19 @@
-# AquaLimpia-tarea-semana-8
-Tarea del ramo ciencia de datos semana 8
+# Proyecto AquaLimpia
+
+## Descripción
+Análisis del desempeño de plantas de tratamiento de aguas residuales utilizando ciencia de datos con python.
+Objetivo principal es evidenciar los posibles problemas que puedan presentar las plantas respecto a su eficacia.
+
+## Contenido
+- `notebooks/`: análisis principal
+- `data/`: dataset utilizado
+- `scripts/`: funciones de validación y gráficos
+- `output/`: resultados y dashboard
+
+## Ejecución
+1. Clonar repositorio
+2. Abrir notebook en Colab
+3. Ejecutar todas las celdas
+
+## Tecnologías
+Python, Pandas, Plotly
